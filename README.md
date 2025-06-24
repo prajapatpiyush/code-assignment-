@@ -1,4 +1,4 @@
-![127 0 0 1_5500-Landing-Page](https://github.com/user-attachments/assets/8d467eaa-ae6a-4121-9496-cd524dd3375b)
+
 #  RealTrust Landing Page (Frontend)
 
 This is the **frontend implementation** of a real estate landing page built for the Flipr Placement Fullstack Task.
@@ -42,3 +42,4 @@ Landing page Features
 Contact Form
 Newsletter Subscription Section.
 
+![127 0 0 1_5500-Landing-Page](https://github.com/user-attachments/assets/8d467eaa-ae6a-4121-9496-cd524dd3375b)
